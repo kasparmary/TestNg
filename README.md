@@ -1,2 +1,2 @@
 # TestNg
-Hadling TestNg related stuffs
+Handling TestNg related stuffs
